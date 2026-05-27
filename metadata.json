@@ -1,0 +1,5 @@
+{
+  "name": "Arda AI",
+  "description": "A world-class super AI assistant for conversation, reasoning, coding, image/video generation, and real-time research.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
